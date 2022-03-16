@@ -1,1 +1,1 @@
-# Diabates-Prediction
+# Diabates Prediction System
