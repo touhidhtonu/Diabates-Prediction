@@ -1,6 +1,7 @@
 # Diabates Prediction System
 
-**Steamlit for Web View**
+Steamlit for Web View
+
 Algorithm: Support Vector Machine (SVM)
 
 
